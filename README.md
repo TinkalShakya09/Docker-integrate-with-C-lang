@@ -4,11 +4,12 @@ Docker commands have been made more easy to use
 
 To make the Directory
 >>mkdir docker_command
-TO change the directory
+
+To change the directory
 >>cd docker_command
 
 Download the tar file
->>wget https://github.com/TinkalShakya09/Docker-integrate-with-C-lang/blob/main/dockercommand.tar.gz
+>>git clone https://github.com/TinkalShakya09/Docker-integrate-with-C-lang.git
 
 Extract the file
 >>tar xvf dockercommand.tar.gz
