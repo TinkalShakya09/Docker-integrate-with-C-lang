@@ -1,6 +1,6 @@
 # Docker-integrate-with-C-lang
 Docker commands have been made more easy to use
-## if you want to use so run the all commands...
+## if you want to use so run the all commands and Use it...
 
 To make the Directory
 >>mkdir docker_command
