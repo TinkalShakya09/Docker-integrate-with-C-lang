@@ -12,7 +12,7 @@ Download the tar file
 >>git clone https://github.com/TinkalShakya09/Docker-integrate-with-C-lang.git
 
 Extract the file
->>tar xvf dockercommand.tar.gz
+>>tar xvf Docker-integrate-with-C-lang/dockercommand.tar.gz
 
 move the files to the "/usr/bin" Directory
 >>mv root/docker_cmd/* /usr/bin/
