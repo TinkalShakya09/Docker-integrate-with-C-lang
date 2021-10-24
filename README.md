@@ -4,6 +4,7 @@ Docker commands have been made more easy to use
 
 To make the Directory
 >>mkdir docker_command
+TO change the directory
 >>cd docker_command
 
 Download the tar file
